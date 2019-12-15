@@ -11,7 +11,7 @@ namespace HelloWorld
         {
 			Console.WriteLine("Hello World!");
 			Console.WriteLine("This is line 2");
-			Console.WriteLine("This is line 3");
+			Console.WriteLine("This");
             Console.WriteLine("This is a change to Runner by User 1");
             Console.WriteLine("This change was made by user 2");
             Console.WriteLine("User 1 made this change");
