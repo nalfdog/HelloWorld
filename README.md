@@ -1,6 +1,6 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+I cannot believe it's not butter.
 
 ### What is this repository for? ###
 
