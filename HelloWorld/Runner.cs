@@ -18,7 +18,7 @@ namespace HelloWorld
             Console.WriteLine("Let's add this in terminal");
 
             Console.WriteLine("Hello Flannan");
-            Console.WriteLine("Brody");
+            Console.WriteLine("Brody Flannan");
 
             var calculator = new Calculator();
             int sum = calculator.Add(5, 7);
