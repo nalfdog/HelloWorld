@@ -6,8 +6,8 @@ namespace HelloWorld
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello really really");
-            Console.WriteLine("Merge change from user2");
+            Console.WriteLine("Hello World");
+            Console.WriteLine("Merge change from user1...making a change..");
             var runner = new Runner();
             runner.Run();
         }
